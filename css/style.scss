@@ -1,0 +1,12 @@
+//   sass --watch style.scss:style.css
+
+@import "base/base";
+@import "module/header";
+@import "module/description";
+@import "module/featured";
+@import "module/details";
+@import "module/bigpicture";
+
+@import "module/about";
+@import "module/price";
+@import "module/footer";

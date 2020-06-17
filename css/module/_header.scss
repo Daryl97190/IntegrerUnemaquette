@@ -1,0 +1,36 @@
+//font-family: 'Merriweather', serif;
+
+.header {
+    height: 951px;
+    background: url(/img/masteHead.png) center top no-repeat;
+    background-size: cover;    
+}
+.header-logo {
+    display: inline-block;
+    margin-top: 55px;
+}
+.header-logo-title{
+    font-family:  'Merriweather', serif ;
+    font-style: italic;
+    font-size: 1.3rem;
+    line-height: 20.8px;
+    margin-left: 10px;
+}
+
+.header-title {
+    font-size: 13px;
+    line-height: 24px;
+    margin-top: 355px;
+    h1 {
+        font-weight: 100;
+        font-size: 3.75rem;
+        
+    }
+    p{
+        font-weight: 400;
+    }
+    
+}
+.header-title-image {
+    margin-top: 163px;
+}

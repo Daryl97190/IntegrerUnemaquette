@@ -1,0 +1,23 @@
+ .description {
+    margin-top: 114px;
+    margin-bottom: 90px;
+    h2 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 2.188rem;
+        font-weight: 300;
+    }
+}
+.description p {
+    color: #959595;
+}
+.description-title {
+    margin-bottom: 40px;
+}
+.description-paragraphe2 {
+    margin-top: 122px;
+}
+@media (max-width: 991.98px) {
+    .description-paragraphe2 {
+        margin-top: 0;
+    }
+}

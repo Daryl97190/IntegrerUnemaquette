@@ -1,0 +1,291 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 3.75rem;
+}
+
+h2 {
+  font-size: 1.875rem;
+  color: #000000;
+}
+
+h3 {
+  font-size: 1.875rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.header {
+  height: 951px;
+  background: url(/img/masteHead.png) center top no-repeat;
+  background-size: cover;
+}
+
+.header-logo {
+  display: inline-block;
+  margin-top: 55px;
+}
+
+.header-logo-title {
+  font-family: "Merriweather", serif;
+  font-style: italic;
+  font-size: 1.3rem;
+  line-height: 20.8px;
+  margin-left: 10px;
+}
+
+.header-title {
+  font-size: 13px;
+  line-height: 24px;
+  margin-top: 355px;
+}
+.header-title h1 {
+  font-weight: 100;
+  font-size: 3.75rem;
+}
+.header-title p {
+  font-weight: 400;
+}
+
+.header-title-image {
+  margin-top: 163px;
+}
+
+.description {
+  margin-top: 114px;
+  margin-bottom: 90px;
+}
+.description h2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 2.188rem;
+  font-weight: 300;
+}
+
+.description p {
+  color: #959595;
+}
+
+.description-title {
+  margin-bottom: 40px;
+}
+
+.description-paragraphe2 {
+  margin-top: 122px;
+}
+
+@media (max-width: 991.98px) {
+  .description-paragraphe2 {
+    margin-top: 0;
+  }
+}
+.featured {
+  margin-bottom: 98px;
+}
+
+.featured-content-item h3 {
+  padding-top: 50px;
+  margin-bottom: 32px;
+  margin-left: 44px;
+}
+.featured-content-item p {
+  margin-bottom: 44px;
+  margin-left: 44px;
+}
+.featured-content-item span {
+  display: inline-block;
+  margin-bottom: 60px;
+  margin-left: 44px;
+}
+
+.pink {
+  background-color: #d996ac;
+}
+
+.blue {
+  background-color: #615f7d;
+}
+
+.green {
+  background-color: #77c1ab;
+}
+
+.sign {
+  background: url(/img/Layer5.png) center no-repeat;
+  background-size: cover;
+}
+
+.ourclients {
+  background: url(/img/Layer6.png) center no-repeat;
+  background-size: cover;
+}
+
+.green {
+  background-color: #77c1ab;
+}
+
+.details {
+  margin-bottom: 165px;
+}
+.details h2 {
+  margin-bottom: 70px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 2.188rem;
+  font-weight: 300;
+}
+.details h3 {
+  margin-bottom: 30px;
+  font-weight: 600;
+  font-size: 0.813rem;
+  color: #606d83;
+}
+.details p {
+  font-size: 0.875rem;
+  color: #b5b5b5;
+}
+
+@media (max-width: 991.98px) {
+  .details h3 {
+    margin-bottom: 10px;
+  }
+  .details p {
+    margin-bottom: 30px;
+  }
+}
+.big-pictures {
+  background: url("/img/wheel.png") center top repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 875px;
+}
+
+.big-pictures-title {
+  margin-top: 454px;
+}
+.big-pictures-title h1 {
+  margin-bottom: 45px;
+}
+.big-pictures-title p {
+  margin-bottom: 25px;
+}
+
+.about {
+  background-color: #82ca9c;
+  padding-top: 127px;
+  padding-bottom: 167px;
+}
+
+.price {
+  padding-top: 150px;
+  padding-bottom: 240px;
+  background-color: #f6f7fa;
+}
+.price h2 {
+  margin-bottom: 27px;
+  font-size: 1.878rem;
+  line-height: 40, 5px;
+  font-weight: 100;
+}
+.price p {
+  font-size: 0.876rem;
+  color: #97a7b5;
+  margin-bottom: 30px;
+}
+.price button {
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #FFF;
+}
+
+.windows {
+  margin-left: 15px;
+}
+
+.price-clasic {
+  border-radius: 10px;
+  margin-bottom: 24px;
+  border: none;
+  padding: 9px 17px;
+}
+
+.price-buy {
+  border-radius: 10px;
+  border: none;
+  font-size: 0.814rem;
+  line-height: 22px;
+  background-color: #82ca9c;
+  padding: 20px 17px;
+  display: block;
+  margin-bottom: 18px;
+}
+
+.grey {
+  background-color: #e1e1e1;
+}
+
+.purple {
+  background-color: #bd8cbf;
+}
+
+.price-box {
+  padding-left: 53px;
+  padding-bottom: 60px;
+  padding-top: 47px;
+}
+
+.box-white {
+  background-color: #FFF;
+}
+
+.footer {
+  padding-top: 93px;
+  padding-bottom: 93px;
+  background-color: #192431;
+}
+.footer h3 {
+  font-size: 0.813rem;
+  font-weight: 600;
+  line-height: 24px;
+}
+.footer p {
+  font-size: 0.813rem;
+  margin-bottom: 75px;
+}
+.footer ul {
+  padding: 0;
+  margin: 0;
+}
+.footer li {
+  list-style: none;
+  font-size: 0.813rem;
+}
+.footer input {
+  width: 100%;
+}
+
+.advise {
+  font-size: 0.75rem;
+  color: #57697f;
+  margin-top: 17px;
+}
+
+@media (max-width: 991.98px) {
+  .footer-feats {
+    margin-bottom: 30px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
