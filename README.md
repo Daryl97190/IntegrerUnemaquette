@@ -1,4 +1,4 @@
-# Projet - Intégrer une maquette avec l'outil Photoshop 
+# Projet - Intégrer une maquette avec l'outil Photoshop et le préprocesseur Sass 
 
 
 ## Etape 1 : Trouver une maquette qui correspond aux attentes du client
