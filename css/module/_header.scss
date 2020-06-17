@@ -2,7 +2,10 @@
 
 .header {
     height: 951px;
-    background: url(/img/masteHead.png) center top no-repeat;
+    //  background: url(/img/masteHead.png) center top no-repeat;
+     background: url(../img/masteHead.png) center top no-repeat; 
+
+    
     background-size: cover;    
 }
 .header-logo {

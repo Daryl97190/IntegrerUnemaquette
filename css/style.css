@@ -29,7 +29,7 @@ a {
 
 .header {
   height: 951px;
-  background: url(/img/masteHead.png) center top no-repeat;
+  background: url(../img/masteHead.png) center top no-repeat;
   background-size: cover;
 }
 
@@ -122,12 +122,12 @@ a {
 }
 
 .sign {
-  background: url(/img/Layer5.png) center no-repeat;
+  background: url(../img/Layer5.png) center no-repeat;
   background-size: cover;
 }
 
 .ourclients {
-  background: url(/img/Layer6.png) center no-repeat;
+  background: url(../img/Layer6.png) center no-repeat;
   background-size: cover;
 }
 
@@ -164,7 +164,7 @@ a {
   }
 }
 .big-pictures {
-  background: url("/img/wheel.png") center top repeat;
+  background: url(../img/wheel.png) center top repeat;
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
